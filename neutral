@@ -1252,4 +1252,3 @@
     neutralize.neutral = neutralize.X = neutral;
   }
 }(typeof window !== 'undefined' ? window : this));
-
