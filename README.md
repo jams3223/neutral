@@ -1,2 +1,2 @@
 # neutral
-Fast JavaScript Library for latest Web Browser Technology
+Fast JavaScript Library for the latest web browser technology
